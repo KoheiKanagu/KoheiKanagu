@@ -5,3 +5,5 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/koheikanagu/posts.svg)](http://qiita.com/koheikanagu)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/koheikanagu/contributions.svg)](http://qiita.com/koheikanagu)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/koheikanagu/followers.svg)](http://qiita.com/koheikanagu)
+
+![](https://komarev.com/ghpvc/?username=KoheiKanagu&color=00A4AC)
