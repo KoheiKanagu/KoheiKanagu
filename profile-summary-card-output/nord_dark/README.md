@@ -42,3 +42,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/KoheiKanagu/KoheiKanagu/master/profile-summary-card-output/nord_dark/4-productive-time.svg)
+```
+
+    
