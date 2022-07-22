@@ -11,3 +11,5 @@
 [![](https://raw.githubusercontent.com/KoheiKanagu/KoheiKanagu/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
+![](https://wakatime.com/share/@450a1499-8f65-46bb-83ec-d06e314c4243/0fe69685-9b54-4220-b3d2-a095360954be.svg)
