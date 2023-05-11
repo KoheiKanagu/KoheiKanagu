@@ -10,4 +10,4 @@
 
 [![](https://raw.githubusercontent.com/KoheiKanagu/KoheiKanagu/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
